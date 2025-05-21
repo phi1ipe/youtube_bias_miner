@@ -1,0 +1,302 @@
+{
+    "UCiM2qJsoY5oNZuYrh3pZAsg": {
+        "name": "The American Conservative",
+        "bias": "right"
+    },
+    "UCeLc4heXqG9dtL7jiPHMBfQ": {
+        "name": "The Epoch Times",
+        "bias": "lean-right"
+    },
+    "UCmgnsaQIK1IR808Ebde-ssA": {
+        "name": "Breitbart",
+        "bias": "right"
+    },
+    "UC16niRr50-MSBwiO3YDb3RA": {
+        "name": "BBC News",
+        "bias": "center"
+    },
+    "UCupvZG-5ko_eiXAupbDfxWw": {
+        "name": "CNN",
+        "bias": "lean-left"
+    },
+    "UCaXkIU1QidjPwiAYu6GcHjg": {
+        "name": "MSNBC",
+        "bias": "left"
+    },
+    "UCETvTnnDut4ioV97kJtzA4A": {
+        "name": "The American Spectator",
+        "bias": "right"
+    },
+    "UCYI_ychRnL7sJrG6PUSBpQA": {
+        "name": "CBN",
+        "bias": "right"
+    },
+    "UCKgJEs_v0JB-6jWb8lIy9Xw": {
+        "name": "Blaze media",
+        "bias": "right"
+    },
+    "UCfDdlNLRVb1h3_7Xh-WhL3w": {
+        "name": "Daily Caller Shorts",
+        "bias": "right"
+    },
+    "UCw3fku0sH3qA3c3pZeJwdAw": {
+        "name": "Daily Mail",
+        "bias": "right"
+    },
+    "UCaeO5vkdj5xOQHp4UmIN6dw": {
+        "name": "Daily Wire",
+        "bias": "right"
+    },
+    "UCXIJgqnII2ZOINSWNOGFThA": {
+        "name": "Fox News",
+        "bias": "right"
+    },
+    "UCJg9wBPyKMNA5sRDnvzmkdg": {
+        "name": "LiveNOW from FOX",
+        "bias": "right"
+    },
+    "UCEBsWEmSBXAU3JqZZGMBGpQ": {
+        "name": "The Federalist",
+        "bias": "right"
+    },
+    "UC5k4fQj-z0jEQBpd-VFwbIw": {
+        "name": "Independent Journal Review",
+        "bias": "right"
+    },
+    "UCx6h-dWzJ5NpAlja1YsApdg": {
+        "name": "Newsmax TV",
+        "bias": "right"
+    },
+    "UCNbIDJNNgaRrXOD7VllIMRQ": {
+        "name": "OAN",
+        "bias": "right"
+    },
+    "UCOzojJATlDfb6LdXCXN79zg": {
+        "name": "The Post Millennial",
+        "bias": "right"
+    },
+    "UCdn-M_vxWEK07X3t19ximDQ": {
+        "name": "The Washington Free Beacon",
+        "bias": "right"
+    },
+    "UCaqFv9hD-XJmPMzC5Yvtneg": {
+        "name": "The Dispatch",
+        "bias": "lean-right"
+    },
+    "UCCXoCcu9Rp7NPbTzIvogpZg": {
+        "name": "Fox Business",
+        "bias": "lean-right"
+    },
+    "UCSRRURbKlPf1HwPUhjmufTg": {
+        "name": "The Free Press",
+        "bias": "lean-right"
+    },
+    "UC588htN7jqso3D80OnGGrAw": {
+        "name": "Just the News",
+        "bias": "lean-right"
+    },
+    "UCun4tg1BecN4PuxwZ6mL3NA": {
+        "name": "National Review",
+        "bias": "lean-right"
+    },
+    "UCrvhNP_lWuPIP6QZzJmM-bw": {
+        "name": "The New York Post",
+        "bias": "lean-right"
+    },
+    "UCUFc1XLry7ZxBfUlRUIFe2A": {
+        "name": "Upward",
+        "bias": "lean-right"
+    },
+    "UC8BxSGcBKriJvoeyKOnJ6tA": {
+        "name": "Washington Examiner",
+        "bias": "lean-right"
+    },
+    "UCsCE4IMMFuwPYbwDqaz7udQ": {
+        "name": "The Washington Times",
+        "bias": "lean-right"
+    },
+    "UCaO9gH0HOmvXjZg_tMG0lLQ": {
+        "name": "Zero Hedge",
+        "bias": "lean-right"
+    },
+    "UCTdvpZLANeVfpckUBQD7lCQ": {
+        "name": "The Christian Science Monitor",
+        "bias": "center"
+    },
+    "UCvJJ_dzjViJCoLf5uKUTwoA": {
+        "name": "CNBC",
+        "bias": "center"
+    },
+    "UCrp_UI8XtuYfpiqluWLD7Lw": {
+        "name": "CNBC Television",
+        "bias": "center"
+    },
+    "UCg40OxZ1GYh3u3jBntB6DLg": {
+        "name": "Forbes Breaking News",
+        "bias": "center"
+    },
+    "UCmh7afBz-uWwOSSNTqUBAhg": {
+        "name": "Forbes",
+        "bias": "center"
+    },
+    "UCPWXiRWZ29zrxPFIQT7eHSA": {
+        "name": "The Hill",
+        "bias": "center"
+    },
+    "UCPaSu8qnjJhF1vkXVOGojBQ": {
+        "name": "MarketWatch",
+        "bias": "center"
+    },
+    "UCCjG8NtOig0USdrT5D1FpxQ": {
+        "name": "NewsNation",
+        "bias": "center"
+    },
+    "UC2a35q7eyzkfoIusBzdH4Hw": {
+        "name": "Newsweek",
+        "bias": "center"
+    },
+    "UCIOrcA99BelTxfzVsBb38dw": {
+        "name": "RealClearPolitics",
+        "bias": "center"
+    },
+    "UC0uVZd8N7FfIZnPu0y7o95A": {
+        "name": "ReasonTV",
+        "bias": "center"
+    },
+    "UChqUTb7kYRX8-EiaN3XFrSQ": {
+        "name": "Reuters",
+        "bias": "center"
+    },
+    "UCuL3xV8AqD3sekKOhhyZqOA": {
+        "name": "Straight Arrow News",
+        "bias": "center"
+    },
+    "UCK7tptUDHh-RYDsdxO1-5QQ": {
+        "name": "The Wall Street Journal",
+        "bias": "center"
+    },
+    "UCBi2mrWuNuyYy4gbM6fU18Q": {
+        "name": "ABC News",
+        "bias": "lean-left"
+    },
+    "UCfU4-ArXuSX0tpyApyklMAg": {
+        "name": "Axios",
+        "bias": "lean-left"
+    },
+    "UCUMZ7gohGI9HcU9VNsr2FJQ": {
+        "name": "Bloomberg Originals",
+        "bias": "lean-left"
+    },
+    "UCIALMKvObZNtJ6AmdCLP7Lg": {
+        "name": "Bloomberg Television",
+        "bias": "lean-left"
+    },
+    "UChirEOpgFCupRAk5etXqPaA": {
+        "name": "Bloomberg News",
+        "bias": "lean-left"
+    },
+    "UC8p1vwvWtl6T73JiExfWs1g": {
+        "name": "CBS News",
+        "bias": "lean-left"
+    },
+    "UCHJuQZuzapBh-CuhRYxIZrg": {
+        "name": "Insider",
+        "bias": "lean-left"
+    },
+    "UCHjm6wybRbldhqveS7c2WTA": {
+        "name": "Insider News",
+        "bias": "lean-left"
+    },
+    "UCeY0bbntWzzVIaj2z3QigXg": {
+        "name": "NBC News",
+        "bias": "lean-left"
+    },
+    "UCqnbDFdCpuN8CMEg0VuEBqA": {
+        "name": "The New York Times",
+        "bias": "lean-left"
+    },
+    "UCJnS2EsPfv46u1JR8cnD0NA": {
+        "name": "NPR",
+        "bias": "lean-left"
+    },
+    "UCgjtvMmHXbutALaw9XzRkAg": {
+        "name": "POLITICO",
+        "bias": "lean-left"
+    },
+    "UCtCL58_DaVdVRmev3yHK7pg": {
+        "name": "ProPublica",
+        "bias": "lean-left"
+    },
+    "UCtB4ylCuQW0ue8ACIsHmD1w": {
+        "name": "Semafor",
+        "bias": "lean-left"
+    },
+    "UC8Su5vZCXWRag13H53zWVwA": {
+        "name": "TIME",
+        "bias": "lean-left"
+    },
+    "UCP6HGa63sBC7-KHtkme-p-g": {
+        "name": "USA TODAY",
+        "bias": "lean-left"
+    },
+    "UCHd62-u_v4DvJ8TCFtpi4GA": {
+        "name": "The Washington Post",
+        "bias": "lean-left"
+    },
+    "UCKY1msUI1iVtnKHPaLOsiQg": {
+        "name": "Yahoo News",
+        "bias": "lean-left"
+    },
+    "UC52X5wxOL_s5yw0dQk7NtgA": {
+        "name": "Associated Press",
+        "bias": "left"
+    },
+    "UCK0z0_5uL7mb9IjntOKi5XQ": {
+        "name": "The Atlantic",
+        "bias": "left"
+    },
+    "UC7qZ_e097NBkgOljy1joVRA": {
+        "name": "The Daily Beast",
+        "bias": "left"
+    },
+    "UCzuqE7-t13O4NIDYJfakrhw": {
+        "name": "Democracy Now!",
+        "bias": "left"
+    },
+    "UCIRYBXDze5krPDzAEOxFGVA": {
+        "name": "Guardian News",
+        "bias": "left"
+    },
+    "UCZfsrIV68Oegr5bJgAMLBDA": {
+        "name": "HuffPost",
+        "bias": "left"
+    },
+    "UCv002AUCZaPNwiADqwchijg": {
+        "name": "The Intercept",
+        "bias": "left"
+    },
+    "UCzGUT9PjV3SMBwjWXUYh4HA": {
+        "name": "Jacobin",
+        "bias": "left"
+    },
+    "UCbWB33FQvFiV0Pq9Calkgzw": {
+        "name": "Mother Jones",
+        "bias": "left"
+    },
+    "UCDGECor7yw2AkrgAcHkcJxQ": {
+        "name": "The Nation",
+        "bias": "left"
+    },
+    "UCsD-Qms-AkXDrsU962OicLw": {
+        "name": "The New Yorker",
+        "bias": "left"
+    },
+    "UCYC4ijpFZY_CtdElWFyy-Gg": {
+        "name": "Slate",
+        "bias": "left"
+    },
+    "UCLXo7UDZvByw2ixzpQCufnA": {
+        "name": "Vox",
+        "bias": "left"
+    }
+}
